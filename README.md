@@ -40,3 +40,6 @@ npm run build
 ```
 yarn build
 ```
+
+## UML (предположительно)
+![UML диаграмма](https://github.com/IrkaTyman/WebLarek/blob/main/Диаграмма%20без%20названия.drawio.png)
